@@ -1,5 +1,5 @@
 # Coursity
-Here’s a sample `README.md` file for your course-selling app project. This file will explain how to set up the project, what technologies are used, and how to run the app locally.
+
 
 ```markdown
 # Course Selling App Backend
